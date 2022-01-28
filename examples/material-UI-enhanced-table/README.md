@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You can:
 
-- [Open this example in a new CodeSandbox](https://codesandbox.io/s/github/tanstack/react-table/tree/master/examples/material-UI-enhanced-table)
+- [Open this example in a new CodeSandbox](https://codesandbox.io/s/github/tanstack/react-table/tree/alpha/examples/material-UI-enhanced-table)
 - `yarn` and `yarn start` to run and edit the example
 
 It demonstrates client side pagination, sorting, global search, add row, and delete row.
